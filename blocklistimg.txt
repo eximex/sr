@@ -1,5 +1,4 @@
---------------------------------
-! Title:         Blocklist Img
+! Title:        Blocklist Img
 ! Description:   Block list images.
 ! URL:           https://raw.githubusercontent.com/eximex/sr/master/blocklistimg.txt
 ! Format:        adblock
