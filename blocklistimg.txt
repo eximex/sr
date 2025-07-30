@@ -10,6 +10,8 @@
 ! Last modified: 2025-07-30T16:04:28.822367 UTC
 ! Source:        https://raw.githubusercontent.com/eximex/sr
 ! Issue:         https://raw.githubusercontent.com/eximex/sr/issues
+!  \......................................
+!  \____________________
 ||*.xn--mgb2ddes^$image
 ||*.xn--mgbai9azgqp6j^$image
 ||*.xn--mgb9awbf^$image
