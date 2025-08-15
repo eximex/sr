@@ -1,11 +1,11 @@
-!
+[Adblock Plus]
 ! Title: LOCKID
-! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.34.2
+! Description: Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Crytojacking and other "Crap".
 ! Homepage: https://raw.githubusercontent.com/eximex/sr/main/AdGUARD/LOCKID.txt
-! Last modified: 2025-08-13T08:10:24.488Z
-!
-! Compiled by @SR/hostlist-compiler v1.0.35
+! Expires: 1 day
+! Last modified: 15 Aug 2025 07:43 UTC
+! Version: 2025.0815.0743.59
+! Syntax: AdBlock
 !
 ||0--foodwarez.da.ru^
 ||0-0.fr^
